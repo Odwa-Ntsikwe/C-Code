@@ -1,2 +1,2 @@
-# C-Code
+# C++-Code
 Basic programs using C++
